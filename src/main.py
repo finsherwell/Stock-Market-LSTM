@@ -1,4 +1,4 @@
-from pandas_datareader import data
+from pandas-datareader import data
 import matplotlib.pyplot as plt
 import pandas as pd
 import datetime as dt
